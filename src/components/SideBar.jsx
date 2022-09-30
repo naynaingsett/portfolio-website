@@ -30,17 +30,34 @@ const Sidebar = () => {
 			/>
 			<ul className='sidebar-links'>
 				<li>
-					<a href='#about'>About</a>
+					<a href='#about' onClick={closeSidebar}>
+						About
+					</a>
 				</li>
 				<li>
-					<a href='#skills'>Skills & Tools</a>
+					<a
+						href='#skills'
+						onClick={closeSidebar}
+					>
+						Skills & Tools
+					</a>
 				</li>
 
 				<li>
-					<a href='#projects'>Projects</a>
+					<a
+						href='#projects'
+						onClick={closeSidebar}
+					>
+						Projects
+					</a>
 				</li>
 				<li>
-					<a href='#contact'>Contact</a>
+					<a
+						href='#contact'
+						onClick={closeSidebar}
+					>
+						Contact
+					</a>
 				</li>
 				<li>
 					<a

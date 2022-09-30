@@ -7,7 +7,6 @@ import {
 	FaGithub,
 	FaTerminal,
 	FaBootstrap,
-	FaSass,
 } from 'react-icons/fa';
 import {
 	BsGearFill,
@@ -16,9 +15,7 @@ import {
 import {
 	SiJavascript,
 	SiVisualstudiocode,
-	SiMaterialui,
 	SiFigma,
-	SiTypescript,
 	SiTailwindcss,
 } from 'react-icons/si';
 import { MdDevices } from 'react-icons/md';

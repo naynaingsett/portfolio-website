@@ -232,7 +232,7 @@
 .btn a{
   color: #333
 }
-.custom-shape-divider-top-1664443786 {
+.custom-shape-divider-top-1664553617 {
   position: absolute;
   top: 0;
   left: 0;
@@ -241,15 +241,15 @@
   line-height: 0;
 }
 
-.custom-shape-divider-top-1664443786 svg {
+.custom-shape-divider-top-1664553617 svg {
   position: relative;
   display: block;
   width: calc(100% + 1.3px);
-  height: 69px;
+  height: 31px;
 }
 
-.custom-shape-divider-top-1664443786 .shape-fill {
-  fill: #333333;
+.custom-shape-divider-top-1664553617 .shape-fill {
+  fill: #333;
 }
 .contact-container{
   display: flex;

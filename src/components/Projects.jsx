@@ -8,7 +8,7 @@ const Projects = () => {
 			className='project-container'
 			id='projects'
 		>
-			<div className='custom-shape-divider-top-1664443786'>
+			<div className='custom-shape-divider-top-1664553617'>
 				<svg
 					data-name='Layer 1'
 					xmlns='http://www.w3.org/2000/svg'
@@ -16,7 +16,7 @@ const Projects = () => {
 					preserveAspectRatio='none'
 				>
 					<path
-						d='M1200 120L0 16.48 0 0 1200 0 1200 120z'
+						d='M1200 0L0 0 598.97 114.72 1200 0z'
 						className='shape-fill'
 					></path>
 				</svg>
