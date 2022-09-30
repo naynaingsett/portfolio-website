@@ -35,12 +35,14 @@ const Projects = () => {
 
 					<div className='p-detail'>
 						<h6>Your New Best Friend</h6>
+						<br />
 						<p>
 							Have you wondered if you are a
 							cat-person or a dog-person? Now it's
 							the time to find out who your little
 							companion will be. Try it out now!
 						</p>
+						<br />
 						<button className='btn'>
 							<a
 								href='https://quizprojectbysett.netlify.app/'
@@ -62,12 +64,14 @@ const Projects = () => {
 				<div className='p p2'>
 					<div className='p-detail'>
 						<h6>Movie-Info Website</h6>
+						<br />
 						<p>
 							I built a movie info website where
 							you can search for movies and find
 							the details. This project is powered
 							by MovieDB API.
 						</p>
+						<br />
 						<button className='btn'>
 							<a
 								href='https://movieinfowebsitebysett.netlify.app/'
@@ -103,6 +107,7 @@ const Projects = () => {
 					</div>
 					<div className='p-detail'>
 						<h6>Restaurant Menu</h6>
+						<br />
 						<p>
 							I used Tailwind CSS to create the
 							whole project. I highly focused on
@@ -110,6 +115,7 @@ const Projects = () => {
 							Food proudly to be well-known
 							worldwide.
 						</p>
+						<br />
 						<button className='btn'>
 							<a
 								href='https://restaurantmenubysett.netlify.app/'
