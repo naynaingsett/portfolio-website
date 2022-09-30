@@ -49,7 +49,7 @@ const Projects = () => {
 								View Project
 							</a>
 						</button>
-						<button className='btn'>
+						<button className='btn btn2'>
 							<a
 								href='https://github.com/naynaingsett/quiz-app'
 								target='_blank'
@@ -70,13 +70,13 @@ const Projects = () => {
 						</p>
 						<button className='btn'>
 							<a
-								href='https://quizprojectbysett.netlify.app/'
+								href='https://movieinfowebsitebysett.netlify.app/'
 								target='_blank'
 							>
 								View Project
 							</a>
 						</button>
-						<button className='btn'>
+						<button className='btn btn2'>
 							<a
 								href='https://github.com/naynaingsett/movie-info-website'
 								target='_blank'
@@ -112,13 +112,13 @@ const Projects = () => {
 						</p>
 						<button className='btn'>
 							<a
-								href='https://quizprojectbysett.netlify.app/'
+								href='https://restaurantmenubysett.netlify.app/'
 								target='_blank'
 							>
 								View Project
 							</a>
 						</button>
-						<button className='btn'>
+						<button className='btn btn2'>
 							<a
 								href='https://github.com/naynaingsett/restaurant-menu'
 								target='_blank'

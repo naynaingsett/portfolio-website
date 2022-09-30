@@ -1,7 +1,12 @@
 import React from 'react';
 import { useGlobalContext } from './context';
 import { FaTimes } from 'react-icons/fa';
-
+import {
+	BsGithub,
+	BsLinkedin,
+	BsTwitter,
+} from 'react-icons/bs';
+import { SiGmail } from 'react-icons/si';
 const Sidebar = () => {
 	const { isSidebarOpen, closeSidebar } =
 		useGlobalContext();
@@ -43,6 +48,40 @@ const Sidebar = () => {
 						target='_blank'
 					>
 						Resume
+					</a>
+				</li>
+			</ul>
+			<ul className='side-icons'>
+				<li>
+					<a
+						href='https://github.com/naynaingsett'
+						target='_blank'
+					>
+						<BsGithub />
+					</a>
+				</li>
+				<li>
+					<a
+						href='https://www.linkedin.com/in/nay-naing-sett-162359244'
+						target='_blank'
+					>
+						<BsLinkedin />
+					</a>
+				</li>
+				<li>
+					<a
+						href='https://twitter.com/NSett20'
+						target='_blank'
+					>
+						<BsTwitter />
+					</a>
+				</li>
+				<li>
+					<a
+						target='_blank'
+						href='https://mail.google.com/mail/?view=cm&fs=1&to=naysett20@gmail.com'
+					>
+						<SiGmail />
 					</a>
 				</li>
 			</ul>
