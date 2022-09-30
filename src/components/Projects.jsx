@@ -49,6 +49,14 @@ const Projects = () => {
 								View Project
 							</a>
 						</button>
+						<button className='btn'>
+							<a
+								href='https://github.com/naynaingsett/quiz-app'
+								target='_blank'
+							>
+								View Code
+							</a>
+						</button>
 					</div>
 				</div>
 				<div className='p p2'>
@@ -66,6 +74,14 @@ const Projects = () => {
 								target='_blank'
 							>
 								View Project
+							</a>
+						</button>
+						<button className='btn'>
+							<a
+								href='https://github.com/naynaingsett/movie-info-website'
+								target='_blank'
+							>
+								View Code
 							</a>
 						</button>
 					</div>
@@ -86,12 +102,13 @@ const Projects = () => {
 						/>
 					</div>
 					<div className='p-detail'>
-						<h6>Your New Best Friend</h6>
+						<h6>Restaurant Menu</h6>
 						<p>
-							Have you wondered if you are a
-							cat-person or a dog-person? Now it's
-							the time to find out who your little
-							companion will be. Try it out now!
+							I used Tailwind CSS to create the
+							whole project. I highly focused on
+							UI & UX. I also promoted Myanmar
+							Food proudly to be well-known
+							worldwide.
 						</p>
 						<button className='btn'>
 							<a
@@ -99,6 +116,14 @@ const Projects = () => {
 								target='_blank'
 							>
 								View Project
+							</a>
+						</button>
+						<button className='btn'>
+							<a
+								href='https://github.com/naynaingsett/restaurant-menu'
+								target='_blank'
+							>
+								View Code
 							</a>
 						</button>
 					</div>

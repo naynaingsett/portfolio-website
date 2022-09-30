@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 import Hero from '../components/Hero';
 import Projects from '../components/Projects';
 import Skills from '../components/Skills';
-
+import ScrollToTop from '../components/ScrollToTop';
 const Home = () => {
 	return (
 		<>
@@ -15,6 +15,7 @@ const Home = () => {
 			<Projects />
 			<Contact />
 			<Footer />
+			<ScrollToTop />
 		</>
 	);
 };

@@ -19,6 +19,7 @@ import {
 	SiMaterialui,
 	SiFigma,
 	SiTypescript,
+	SiTailwindcss,
 } from 'react-icons/si';
 import { MdDevices } from 'react-icons/md';
 const Skills = () => {
@@ -105,9 +106,9 @@ const Skills = () => {
 						</p>
 					</div>
 					<div className='skills'>
-						<SiMaterialui className='icon' />
+						<SiTailwindcss className='icon' />
 						<p>
-							<span>Material UI</span>
+							<span>Tailwind CSS</span>
 						</p>
 					</div>
 					<div className='skills'>

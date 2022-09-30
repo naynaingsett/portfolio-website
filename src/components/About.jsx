@@ -45,6 +45,7 @@ const About = () => {
 							'Crimson Pro , sans-serif',
 						lineHeight: '35px',
 						marginBottom: '30px',
+						fontSize: '1.9rem',
 					}}
 				>
 					A passion-driven Front-End Developer
@@ -83,7 +84,8 @@ const About = () => {
 					project. I love trying new techs and
 					features that are evolving day by day.
 					If you want to make a small talk or a
-					deep discussion, contact me. I am
+					deep discussion,{' '}
+					<a href='#contact'>contact me</a> . I am
 					welcome to everyone.
 				</p>
 			</div>
