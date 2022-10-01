@@ -70,7 +70,7 @@ const About = () => {
 					before all the universities were closed
 					down for Covid-19 pandemic in March
 					2020. Coup happened in Myanmar in
-					February 2021. Currently, I am in hiatus
+					February 2021. Currently, I am on hiatus
 					due to personal reasons.
 				</p>
 				<p style={{ marginBottom: '30px' }}>

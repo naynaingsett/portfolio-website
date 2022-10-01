@@ -61,7 +61,7 @@ const Sidebar = () => {
 				</li>
 				<li>
 					<a
-						href='https://drive.google.com/file/d/1ALGR75D9UAR31VotTYMaI6ISXH_IkLfD/view?usp=sharing'
+						href='https://drive.google.com/file/d/1-wENp7ItoNcZk7Pl7laxqXGhLfrVmbpm/view?usp=sharing'
 						target='_blank'
 					>
 						Resume
