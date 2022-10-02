@@ -45,7 +45,7 @@ const About = () => {
 							'Crimson Pro , sans-serif',
 						lineHeight: '35px',
 						marginBottom: '30px',
-						fontSize: '1.9rem',
+						fontSize: '1.8rem',
 					}}
 				>
 					A passion-driven Front-End Developer
