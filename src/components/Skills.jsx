@@ -131,7 +131,7 @@ const Skills = () => {
 					<div className='skills'>
 						<SiGatsby className='icon' />
 						<p>
-							<span>NextJS</span>
+							<span>Gatsby</span>
 						</p>
 					</div>
 				</div>
