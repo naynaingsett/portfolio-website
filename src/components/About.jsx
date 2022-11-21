@@ -1,5 +1,5 @@
 import React from 'react';
-import question from '../question.jpg';
+import profile from '../pp.jpg';
 const About = () => {
 	return (
 		<section
@@ -33,7 +33,7 @@ const About = () => {
 				</div>
 				<div>
 					<img
-						src={question}
+						src={profile}
 						className='profile'
 					/>
 				</div>
@@ -43,7 +43,6 @@ const About = () => {
 					style={{
 						fontFamily:
 							'Crimson Pro , sans-serif',
-						lineHeight: '35px',
 						marginBottom: '30px',
 						fontSize: '1.8rem',
 					}}

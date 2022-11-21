@@ -17,8 +17,10 @@ import {
 	SiVisualstudiocode,
 	SiFigma,
 	SiTailwindcss,
+	SiGatsby,
 } from 'react-icons/si';
 import { MdDevices } from 'react-icons/md';
+import { TbBrandNextjs } from 'react-icons/tb';
 const Skills = () => {
 	return (
 		<>
@@ -118,6 +120,18 @@ const Skills = () => {
 						<MdDevices className='icon' />
 						<p>
 							<span>Responsive Websites</span>
+						</p>
+					</div>
+					<div className='skills'>
+						<TbBrandNextjs className='icon' />
+						<p>
+							<span>NextJS</span>
+						</p>
+					</div>
+					<div className='skills'>
+						<SiGatsby className='icon' />
+						<p>
+							<span>NextJS</span>
 						</p>
 					</div>
 				</div>
